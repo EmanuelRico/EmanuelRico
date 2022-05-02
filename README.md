@@ -18,7 +18,7 @@
 <a href="https://twitter.com/emanuelrico11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emanuelrico11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emanuel-rico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuel-rico" height="30" width="40" /></a>
 <a href="https://instagram.com/emanuelrico11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emanuelrico11" height="30" width="40" /></a>
-<a href="https://discord.gg/𝕰𝖒𝖆𝖓𝖚𝖊𝖑𝕽𝖎𝖈𝖔𝟙𝟙 (っ◔◡◔)っ#5652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="𝕰𝖒𝖆𝖓𝖚𝖊𝖑𝕽𝖎𝖈𝖔𝟙𝟙 (っ◔◡◔)っ#5652" height="30" width="40" /></a>
+<a href="https://discord.gg/EmanuelRico#5652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EmanuelRico#5652" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
